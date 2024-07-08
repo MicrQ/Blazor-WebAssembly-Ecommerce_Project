@@ -9,3 +9,4 @@
 /home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/refint/PhoneShopeSharedLibrary.dll
 /home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.pdb
 /home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/ref/PhoneShopeSharedLibrary.dll
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.sourcelink.json

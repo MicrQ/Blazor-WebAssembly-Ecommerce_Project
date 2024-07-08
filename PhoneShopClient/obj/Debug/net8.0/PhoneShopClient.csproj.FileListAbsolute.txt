@@ -1029,3 +1029,13 @@
 /home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/refint/PhoneShopClient.dll
 /home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/PhoneShopClient.pdb
 /home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/ref/PhoneShopClient.dll
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/bin/Debug/net8.0/wwwroot/_framework/PhoneShopeSharedLibrary.pdb
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/bin/Debug/net8.0/wwwroot/_framework/PhoneShopeSharedLibrary.wasm
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/bin/Debug/net8.0/wwwroot/_framework/PhoneShopeSharedLibrary.wasm.gz
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/bin/Debug/net8.0/wwwroot/_framework/PhoneShopeSharedLibrary.pdb.gz
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/bin/Debug/net8.0/PhoneShopeSharedLibrary.dll
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/bin/Debug/net8.0/PhoneShopeSharedLibrary.pdb
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/PhoneShopClient.sourcelink.json
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/webcil/PhoneShopeSharedLibrary.wasm
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/compressed/iw12de6z2k.gz
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/compressed/t73ro7g3bi.gz

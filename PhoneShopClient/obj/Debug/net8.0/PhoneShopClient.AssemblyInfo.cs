@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoneShopClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a7da3c9d69f7839deb6b9283ffc1cecab992272")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b41bdcfe06e4e1b9c2ac2fdd39b486d38bef5dd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoneShopClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoneShopClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
