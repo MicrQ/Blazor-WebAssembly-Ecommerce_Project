@@ -1,0 +1,11 @@
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/bin/Debug/net8.0/PhoneShopeSharedLibrary.deps.json
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/bin/Debug/net8.0/PhoneShopeSharedLibrary.dll
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/bin/Debug/net8.0/PhoneShopeSharedLibrary.pdb
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.AssemblyInfoInputs.cache
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.AssemblyInfo.cs
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.csproj.CoreCompileInputs.cache
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.dll
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/refint/PhoneShopeSharedLibrary.dll
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/PhoneShopeSharedLibrary.pdb
+/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopeSharedLibrary/obj/Debug/net8.0/ref/PhoneShopeSharedLibrary.dll

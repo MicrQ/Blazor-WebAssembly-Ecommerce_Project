@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/compressed/kyhfihslc7.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/obj/Debug/net8.0/scopedcss/bundle/PhoneShopClient.styles.css",
+      "PackagePath": "staticwebassets/PhoneShopClient.styles.css"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/niq/Blazor-WebAssembly-Ecommerce_Project/PhoneShopClient/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PhoneShopClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PhoneShopClient.props",
+      "PackagePath": "build\\PhoneShopClient.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PhoneShopClient.props",
+      "PackagePath": "buildMultiTargeting\\PhoneShopClient.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PhoneShopClient.props",
+      "PackagePath": "buildTransitive\\PhoneShopClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
