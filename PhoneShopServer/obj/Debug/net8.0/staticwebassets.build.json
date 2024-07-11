@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ajPdvtyV3O/jl5CuKW3ywiET9pKzoACnWz3rL2OVsAw=",
+  "Hash": "4+JSWJumE0Ffjeb6eTmiEV3p0xQUZMvMcGQAAg7lPcc=",
   "Source": "PhoneShopServer",
   "BasePath": "_content/PhoneShopServer",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "PhoneShopClient",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "RuntimeIdentifier;SelfContained;WebPublishProfileFile;TargetFramework"
     }
   ],

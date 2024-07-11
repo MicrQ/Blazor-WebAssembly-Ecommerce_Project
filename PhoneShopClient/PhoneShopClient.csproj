@@ -15,4 +15,12 @@
     <ProjectReference Include="..\PhoneShopeSharedLibrary\PhoneShopeSharedLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages/AddOrUpdateProductComponent.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages/AddOrUpdateProductComponent.razor" />
+  </ItemGroup>
+
 </Project>
